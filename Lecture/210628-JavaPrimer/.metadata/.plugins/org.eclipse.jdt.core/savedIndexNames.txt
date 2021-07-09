@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\Dashijiru\Desktop\Revature\PowerPoints\210628-JavaPrimer\.metadata\.plugins\org.eclipse.jdt.core
+2277357373.index
+4038756267.index
+4158079922.index
+433660574.index
+2161144612.index
+2990103313.index
+2612398778.index
+1860047368.index
